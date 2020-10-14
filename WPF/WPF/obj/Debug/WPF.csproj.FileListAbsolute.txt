@@ -1,0 +1,29 @@
+F:\Val\Informatica\VIA\Semester 6\DNP2\Assignments\Assignments Solutions\Assignment6\Assignment6\bin\Debug\Assignment6.exe.config
+F:\Val\Informatica\VIA\Semester 6\DNP2\Assignments\Assignments Solutions\Assignment6\Assignment6\bin\Debug\Assignment6.exe
+F:\Val\Informatica\VIA\Semester 6\DNP2\Assignments\Assignments Solutions\Assignment6\Assignment6\bin\Debug\Assignment6.pdb
+F:\Val\Informatica\VIA\Semester 6\DNP2\Assignments\Assignments Solutions\Assignment6\Assignment6\obj\Debug\Assignment6.csprojAssemblyReference.cache
+F:\Val\Informatica\VIA\Semester 6\DNP2\Assignments\Assignments Solutions\Assignment6\Assignment6\obj\Debug\MainWindow.g.cs
+F:\Val\Informatica\VIA\Semester 6\DNP2\Assignments\Assignments Solutions\Assignment6\Assignment6\obj\Debug\App.g.cs
+F:\Val\Informatica\VIA\Semester 6\DNP2\Assignments\Assignments Solutions\Assignment6\Assignment6\obj\Debug\Assignment6_MarkupCompile.cache
+F:\Val\Informatica\VIA\Semester 6\DNP2\Assignments\Assignments Solutions\Assignment6\Assignment6\obj\Debug\Assignment6_MarkupCompile.lref
+F:\Val\Informatica\VIA\Semester 6\DNP2\Assignments\Assignments Solutions\Assignment6\Assignment6\obj\Debug\MainWindow.baml
+F:\Val\Informatica\VIA\Semester 6\DNP2\Assignments\Assignments Solutions\Assignment6\Assignment6\obj\Debug\Assignment6.g.resources
+F:\Val\Informatica\VIA\Semester 6\DNP2\Assignments\Assignments Solutions\Assignment6\Assignment6\obj\Debug\Assignment6.Properties.Resources.resources
+F:\Val\Informatica\VIA\Semester 6\DNP2\Assignments\Assignments Solutions\Assignment6\Assignment6\obj\Debug\Assignment6.csproj.GenerateResource.cache
+F:\Val\Informatica\VIA\Semester 6\DNP2\Assignments\Assignments Solutions\Assignment6\Assignment6\obj\Debug\Assignment6.csproj.CoreCompileInputs.cache
+F:\Val\Informatica\VIA\Semester 6\DNP2\Assignments\Assignments Solutions\Assignment6\Assignment6\obj\Debug\Assignment6.exe
+F:\Val\Informatica\VIA\Semester 6\DNP2\Assignments\Assignments Solutions\Assignment6\Assignment6\obj\Debug\Assignment6.pdb
+F:\Val\Informatica\GIT\WPF project\WPF\WPF\bin\Debug\Assignment6.exe.config
+F:\Val\Informatica\GIT\WPF project\WPF\WPF\bin\Debug\Assignment6.exe
+F:\Val\Informatica\GIT\WPF project\WPF\WPF\bin\Debug\Assignment6.pdb
+F:\Val\Informatica\GIT\WPF project\WPF\WPF\obj\Debug\WPF.csprojAssemblyReference.cache
+F:\Val\Informatica\GIT\WPF project\WPF\WPF\obj\Debug\MainWindow.g.cs
+F:\Val\Informatica\GIT\WPF project\WPF\WPF\obj\Debug\App.g.cs
+F:\Val\Informatica\GIT\WPF project\WPF\WPF\obj\Debug\Assignment6_MarkupCompile.cache
+F:\Val\Informatica\GIT\WPF project\WPF\WPF\obj\Debug\Assignment6_MarkupCompile.lref
+F:\Val\Informatica\GIT\WPF project\WPF\WPF\obj\Debug\MainWindow.baml
+F:\Val\Informatica\GIT\WPF project\WPF\WPF\obj\Debug\Assignment6.g.resources
+F:\Val\Informatica\GIT\WPF project\WPF\WPF\obj\Debug\Assignment6.Properties.Resources.resources
+F:\Val\Informatica\GIT\WPF project\WPF\WPF\obj\Debug\WPF.csproj.GenerateResource.cache
+F:\Val\Informatica\GIT\WPF project\WPF\WPF\obj\Debug\Assignment6.exe
+F:\Val\Informatica\GIT\WPF project\WPF\WPF\obj\Debug\Assignment6.pdb
