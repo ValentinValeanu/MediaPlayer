@@ -1,0 +1,75 @@
+## Professional C# / .NET .gitignore
+
+#   -------------------------------------------------------------------------
+#   Build Outputs
+#   -------------------------------------------------------------------------
+[Bb]in/
+[Oo]bj/
+[Ll]og/
+[Ll]ogs/
+
+#   -------------------------------------------------------------------------
+#   Visual Studio / Rider / VS Code Rider & User Settings
+#   -------------------------------------------------------------------------
+# User-specific files
+*.rsuser
+*.suo
+*.user
+*.usermd
+*.userprefs
+*.sln.docstates
+
+# Visual Studio cache and working files
+.vs/
+.vs*
+Generated%20Files/
+_ReSharper*/
+*.dtbcache.json
+*.suo
+
+# Rider metadata
+.idea/
+
+# VS Code settings
+.vscode/
+# Un-comment the line below if you want to share VS Code launch/settings with your team
+# !.vscode/settings.json
+
+#   -------------------------------------------------------------------------
+#   Package Management (NuGet)
+#   -------------------------------------------------------------------------
+# Restore artifacts
+project.lock.json
+project.fragment.lock.json
+artifacts/
+
+# NuGet packages folder
+# (Leave commented out if you use the modern project format where packages are global)
+# packages/
+
+#   -------------------------------------------------------------------------
+#   Secrets, Environment, and Local Configurations
+#   -------------------------------------------------------------------------
+# Local appsettings overrides
+appsettings.Development.json
+appsettings.Local.json
+
+# User Secrets id (if you want to keep your local secret ID private)
+# secrets.json
+
+# .env files containing credentials
+.env
+.env.*
+
+#   -------------------------------------------------------------------------
+#   Operating System Files
+#   -------------------------------------------------------------------------
+# Windows
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+
+# macOS
+.DS_Store
+.AppleDouble
+.LSOverride
